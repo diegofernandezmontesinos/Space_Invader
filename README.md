@@ -5,5 +5,5 @@
 Si quieres el ejecutable:
 
 
-pip install pyinstaller
-pyinstaller --clean --onefile --windowed Invasión_Espacial.py
+1) pip install pyinstaller
+ 2)pyinstaller --clean --onefile --windowed Invasión_Espacial.py
